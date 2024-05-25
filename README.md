@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/ashiknewar
 [instagram]: https://www.instagram.com/ashiknewar
-[linkedin]: https://linkedin.com/in/ashiknewar
+[linkedin]: https://linkedin.com/in/ashish_crestha
